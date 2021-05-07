@@ -13,7 +13,7 @@
     "install": "^0.13.0",
     "moment": "^2.26.0",
     "serverless-offline": "^6.1.7",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "uuid": "^8.1.0"
   }
 }
